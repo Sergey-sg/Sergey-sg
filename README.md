@@ -40,7 +40,7 @@
 ### Education
 - 🎓 Berdyansk Machine Building College ZNTU (2007-2010) - Technologist in processing of materials.
 - 🎓 Stepik.org (2021-2022) - Certificates in Python: Basics and Applications, Web Development for Beginners: HTML and CSS, JavaScript for Beginners.
-- 🎓 ElifTech IT School (2022.08-2022.10) - Certificate of Achievement in React & Node.js.
+- 🎓 ElifTech IT School (2022.08-2022.10).
 
 ### Experience
 - 🚀 No commercial development experience yet.
