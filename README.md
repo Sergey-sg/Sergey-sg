@@ -25,11 +25,22 @@
 - 🎓 ElifTech IT School (2022.08-2022.10) - Certificate of Achievement in React & Node.js.
 
 ### Skills
-- **Languages:** Python, JavaScript, TypeScript.
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind, Jinja2, Django, Django REST framework, ReactJS, Redux, Nest.js.
-- **Version Control:** Git, GitHub, GitLab.
-- **Tools:** Linux, Trello.
-- **Language:** English - A2 (Elementary).
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-090909?style=for-the-badge&logo=django)
+![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Nest.js](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
+![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-090909?style=for-the-badge&logo=cloudinary)
 
 ### Experience
 - 🚀 No commercial development experience yet.
