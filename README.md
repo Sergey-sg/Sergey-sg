@@ -13,17 +13,6 @@
 ### Interests
 - 🤔 Love to solve problems, especially when solving coding problems and finding elegant solutions.
 
-### Contact
-- 📧 Email: glushaksergey90@gmail.com
-- 🌐 LinkedIn: [Serhii Hlushak](https://www.linkedin.com/in/serhii-hlushak-b06358216/)
-- 📱 Telegram: @sergeyglushak90
-- 👤 Facebook: [sergey1glushak](https://www.facebook.com/sergey1glushak)
-
-### Education
-- 🎓 Berdyansk Machine Building College ZNTU (2007-2010) - Technologist in processing of materials.
-- 🎓 Stepik.org (2021-2022) - Certificates in Python: Basics and Applications, Web Development for Beginners: HTML and CSS, JavaScript for Beginners.
-- 🎓 ElifTech IT School (2022.08-2022.10) - Certificate of Achievement in React & Node.js.
-
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
@@ -40,7 +29,18 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 ![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-090909?style=for-the-badge&logo=cloudinary)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-090909?style=for-the-badge&logo=cloudinary)  
+
+### Contact
+- 📧 Email: glushaksergey90@gmail.com
+- 🌐 LinkedIn: [Serhii Hlushak](https://www.linkedin.com/in/serhii-hlushak-b06358216/)
+- 📱 Telegram: @sergeyglushak90
+- 👤 Facebook: [sergey1glushak](https://www.facebook.com/sergey1glushak)
+
+### Education
+- 🎓 Berdyansk Machine Building College ZNTU (2007-2010) - Technologist in processing of materials.
+- 🎓 Stepik.org (2021-2022) - Certificates in Python: Basics and Applications, Web Development for Beginners: HTML and CSS, JavaScript for Beginners.
+- 🎓 ElifTech IT School (2022.08-2022.10) - Certificate of Achievement in React & Node.js.
 
 ### Experience
 - 🚀 No commercial development experience yet.
